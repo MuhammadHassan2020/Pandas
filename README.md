@@ -1,2 +1,2 @@
 # Pandas
-This repo has got you covered! It's packed with all the basics, simple examples, and practice exercises to help you learn Python step by step.
+This file demonstrates data manipulation using Pandas, including tasks like cleaning, transforming, and analyzing datasets efficiently. Perfect for anyone looking to explore how Pandas simplifies handling and processing data in Python!
